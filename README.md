@@ -22,7 +22,7 @@ Cara menjalankan di docker :
 - jika sudah berjalan maka bisa dilakukan pengetesan menggunakan postman / insomnia dsb
 
 Import file json : 
-Import file inventory.postman_collection.json ke postman
+- Import file inventory.postman_collection.json ke postman
 
 DOKUMENTASI API
 - cek dokumentasi api disini :
