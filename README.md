@@ -20,19 +20,20 @@ DOKUMENTASI API
 Base URL: http://localhost:8000/api/
  
 🔐 Authentication
-Most endpoints require a Bearer Token in the Authorization header:
-Authorization: Bearer <your_token>
+Selain endpoint login, endpoint yang lain membutuhkan Bearer Token:
+letakan hasil token login di -> Authorization: Bearer <your_token>
 
 🔑 Login
 🔹 POST /login
 Untuk mendapatkan Bearer Token.	
 {
-  "email": "user2@example.com",
-  "password": "password"
+    "email": "user2@example.com",
+    "password": "password"
 }
+
 Response:
 {
-  "token": "your_access_token"
+    "token": "your_access_token"
 }
 
 🛒 Produk
