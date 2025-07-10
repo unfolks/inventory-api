@@ -21,6 +21,9 @@ Cara menjalankan di docker :
 - buka di browser "localhost:8000" untuk melihat apakah sudah berjalan
 - jika sudah berjalan maka bisa dilakukan pengetesan menggunakan postman / insomnia dsb
 
+Import file json : 
+Import file inventory.postman_collection.json ke postman
+
 DOKUMENTASI API
 cek dokumentasi api disini :
 https://app.swaggerhub.com/apis/ellcodes/inventory-api/1.0.0
