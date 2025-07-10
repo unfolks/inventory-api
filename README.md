@@ -6,7 +6,7 @@ Version
 - laravel : 12
 - laravel/sanctum : 4.1
 
-Cara menjalankan :
+Cara menjalankan di local :
 - Clone projek https://github.com/unfolks/inventory-api.git
 - masuk ke direktori projek
 - jalankan "composer install" untuk menginstall depedency
