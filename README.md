@@ -25,5 +25,5 @@ Import file json :
 Import file inventory.postman_collection.json ke postman
 
 DOKUMENTASI API
-cek dokumentasi api disini :
-https://app.swaggerhub.com/apis/ellcodes/inventory-api/1.0.0
+- cek dokumentasi api disini :
+- https://app.swaggerhub.com/apis/ellcodes/inventory-api/1.0.0
